@@ -1,0 +1,32 @@
+<company>
+	<employee>
+		<employee_id>123</employee_id>
+		<first_name>John</first_name>
+		<last_name>Doe</last_name>
+		<pay_rate>9.15</pay_rate>
+	</employee>
+	<employee>
+		<employee_id>456</employee_id>
+		<first_name>Jane</first_name>
+		<last_name>Doe</last_name>
+		<pay_rate>10.25</pay_rate>
+	</employee>
+	<employee>
+		<employee_id>789</employee_id>
+		<first_name>Jim</first_name>
+		<last_name>Doe</last_name>
+		<pay_rate>12.35</pay_rate>
+	</employee>
+	<employee>
+		<employee_id>12</employee_id>
+		<first_name>Jax</first_name>
+		<last_name>Doe</last_name>
+		<pay_rate>9.20</pay_rate>
+	</employee>
+	<employee>
+		<employee_id>7</employee_id>
+		<first_name>James</first_name>
+		<last_name>Bond</last_name>
+		<pay_rate>15.00</pay_rate>
+	</employee>
+</company>
